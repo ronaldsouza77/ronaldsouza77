@@ -96,8 +96,14 @@ My experience includes:
 ## 📫 Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/ronald-souza77/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/ronald-souza77/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-in&logoColor=white"/>
+  </a>
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ronalddesouzagaldino@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/ronald_souza77" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
