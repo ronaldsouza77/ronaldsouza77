@@ -22,12 +22,13 @@ Currently working on robust market-driven solutions using modern technologies an
 
 My experience includes:
 
+- Front-End Development 
 - Backend development
 - Process automation
 - REST API development
 - Systems integration
 - Agile methodologies
-- Technical leadership experience (Scrum Master & Product Owner)
+- Technical leadership experience (Scrum Master & Product Owner at Emakers Jr)
 
 ---
 
@@ -57,6 +58,7 @@ My experience includes:
   <img src="https://img.shields.io/badge/Kanban-007ACC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
