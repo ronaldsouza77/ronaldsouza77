@@ -3,8 +3,8 @@
 <h3 align="center">Software Engineer | Building scalable and efficient solutions</h3>
 
 <p align="center">
-  <a href="https://github.com/SEU_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/ronaldsouza77">
+    <img src="https://komarev.com/ghpvc/?username=ronaldsouza77&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
@@ -103,6 +103,7 @@ My experience includes:
 
 ⭐ "Using technology to positively impact businesses and people."
 
+<!--
 **ronaldsouza77/ronaldsouza77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
